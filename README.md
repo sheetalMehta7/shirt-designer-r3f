@@ -8,6 +8,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
+## Live Link: https://shirt-designer-r3f.netlify.app/
 
 <img width="1918" height="931" alt="Screenshot 2026-03-25 202031" src="https://github.com/user-attachments/assets/748c40ef-2537-49af-ac7a-078fe8a4a8cd" />
 
@@ -32,5 +33,3 @@
 | State | Valtio |
 | Animations | Framer Motion + maath |
 | Styling | Tailwind CSS |
-| Backend | Node.js + Express |
-| AI | OpenAI DALL·E |
